@@ -1,2 +1,2 @@
 # Random-Files-Generator
-Generate random files for test suits
+Random File Generator
