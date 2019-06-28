@@ -24,7 +24,8 @@ def get_random_file():
 
     if not os.path.isdir("output"):
         os.mkdir("output")
-
+    
+    # Would be a good idea to use iterator and generator here
 
     for x in range(0, files_each):
         for s in sizes:
