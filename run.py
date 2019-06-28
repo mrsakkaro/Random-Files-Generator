@@ -13,7 +13,7 @@ alphanumeric_ranges = [
 def get_random_file():
     
     files_each = 100
-    sizes = [
+    sizes = [           # Should really make a way to randomize size too
         500,
         1000,
         10000,
